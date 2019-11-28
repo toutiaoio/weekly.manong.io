@@ -4,7 +4,7 @@
 
 码农周刊是一份专为程序员打造的 IT 技术周刊。我们会为你精选一周 IT 技术干货，每周二发送，**完全免费**。<br/>
 **内容包括**：程序设计（架构）、人工智能、编程语言（Java, Android, iOS, Flutter, JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等。<br/>
-目前已发送 286 期，订阅用户超 20 万。[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
+目前已发送 287 期，订阅用户超 20 万。[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
 **如何加入码农周刊读者群？** 关注下方微信公众号，回复 “**入群**” 即可。<br/>
 <img src="https://img.toutiao.io/ads/dw_qrcode_560x160.png"><br/>
 
@@ -17,6 +17,9 @@
 
 ## 程序设计
 
+- [vivo web service：亿万级规模 web 服务引擎架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FovOS0l9U5svlUMfZoYFU9Q&aid=18159&nid=287)
+- [设计高性能高并发网络系统需考虑哪些因素](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaE0Q0syOO0mThn2_pBBKHw&aid=18160&nid=287)
+- [万亿级消息背后: 小米消息队列的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuHDa5e3HUEwyMFcsbbwKWQ&aid=18161&nid=287)
 - [支撑马蜂窝 “双 11” 营销大战背后的技术架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmBnBsYgwAISYcNq2BwKvVg&aid=18093&nid=286)
 - [360 搜索：支撑百亿级网页搜索引擎的架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FDNZE0fs6RBaIo1EX3K3RzA&aid=18094&nid=286)
 - [百度大规模战略性混部系统演进](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzUyMzA3MTY1NA%3D%3D%26mid%3D2247485311%26idx%3D1%26sn%3D7c759e199bf81fce4752501edb89235d&aid=18095&nid=286)
@@ -126,6 +129,15 @@
 
 ## 人工智能
 
+- [为何一定要学习机器学习？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHQE9YYXcXicKkpq6pW4tWg&aid=18208&nid=287)
+- [如何教会机器读懂设计 v1.1](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrUEF_TsrtfhMbMMnEeWN2w&aid=18209&nid=287)
+- [深度学习是如何帮助携程机票客服提高对话效率的](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FQq2R4WYft8fPLpgcsFmorw&aid=18210&nid=287)
+- [深度学习语音合成 2019 指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv1t05s2&aid=18211&nid=287)
+- [在 ARM 盒子上使用 IEF 和 Tensorflow Lite 运行边缘 AI](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FPoT280Q_emFU9g8F5BjRsA&aid=18212&nid=287)
+- [微信小程序与 tensorflow.js 模型引入](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F_9z4flQA5NESndX9La7VhA&aid=18213&nid=287)
+- [Jupyter 在美团民宿的应用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fx9SlEvQj4DdYGKtQOKuslg&aid=18214&nid=287)
+- [人机对话技术研究进展与思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FyeNR0krycswD8cHaN6wa6A&aid=18216&nid=287)
+- [探索权重无关神经网络](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fg7o60Ypri0J1e65cZQspiA&aid=18217&nid=287)
 - [2019 人工智能用户体验设计指南：技术、场景、设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIdHZj4q3eKkpfOfEY13mHQ&aid=18096&nid=286)
 - [[译] 利用机器学习来找出有 bug 的 patch](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvfVKovS2XTnnGQZpwNdX4w&aid=18097&nid=286)
 - [利用 NumPy 广播机制提升机器学习运算性能](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzI2NDQwNjg1NQ%3D%3D%26mid%3D2247483679%26idx%3D1%26sn%3Dd103a99723628bc17b745d2c266548b2&aid=18098&nid=286)
@@ -438,6 +450,19 @@
 
 ## 编程语言
 
+- [[译] 10 个你必须知道的 Java 安全最佳实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOe71n5vSAyhJ1f3be7x7qA&aid=18195&nid=287)
+- [Android 本地 SQL 注入的 dos 攻击方式](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNSFPopBrHuqN9gwOHcuDSQ&aid=18196&nid=287)
+- [这可能是最好的 Android/Kotlin 日志输出方法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff0p78a7&aid=18197&nid=287)
+- [你真的了解 OOM 吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FdNw7evXlT06L3nddxdAfdw&aid=18198&nid=287)
+- [iOS 双摄像头在直播中的应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FbrjuA5CYqSXvBcYCIJOX5Q&aid=18199&nid=287)
+- [Swift 在 GAIA 平台云端一体化的探索](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7B2FDBZ_vnvswiYWjLih4Q&aid=18200&nid=287)
+- [Flutter 如何优雅的解决依赖版本冲突](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FCEKsz8GFEhLDoxQ0Yc8Cow&aid=18201&nid=287)
+- [将安卓手机打造成 Python 全栈开发利器](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F0sFyUE4c1xQryCc9R1x-2A&aid=18202&nid=287)
+- [Python happybase 操作 HBase 最佳实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F6w1BWibVvZfJTKil8nd3Ew&aid=18203&nid=287)
+- [Laravel 参数验证的疑与惑](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FuyNTBlWrIIqEGjK1XWdt1g&aid=18204&nid=287)
+- [Golang 生态：使用 viper 管理配置](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fp-eFNb6VDSbnNXJxT8LgGA&aid=18205&nid=287)
+- [[译] 通过 GASP 让 Vue 实现动态效果](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgyd8b5c&aid=18206&nid=287)
+- [nodejs 是如何和 libuv 以及 v8 一起合作的？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7n1heqr&aid=18207&nid=287)
 - [如何利用缓存机制实现 Java 类反射性能提升 30 倍](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FFbOqMo1AUoxPFT6pSLdnrw&aid=18108&nid=286)
 - [Java 线上故障排查全套路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmczyjep&aid=18109&nid=286)
 - [一条电商 Android 工程化实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxg64dyk&aid=18110&nid=286)
@@ -1100,6 +1125,38 @@
 
 ## 工具资料
 
+- [一周 GitHub 开源项目推荐](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkxBHPoJaFsWGLuqGj1pgrA&aid=18163&nid=287)
+- [告别动态规划，连刷 40 道题，我总结了这些套路，看不懂你打我](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjcapha4&aid=18164&nid=287)
+- [为什么 DNS 使用 UDP 协议](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1zxqxx9&aid=18165&nid=287)
+- [最全 Linux 应急响应技巧](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fii2gbg8&aid=18166&nid=287)
+- [为什么你学不会递归？告别递归，谈谈我的一些经验](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmJ_jZZoak7uhItNgnfmZvQ&aid=18167&nid=287)
+- [MySQL redo log 漫游](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJCFP0g_sM0Wpi01UYiz3PQ&aid=18168&nid=287)
+- [面试官：如何用 Redis 实现全局锁](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpEScg7U2-x756omUf3BNkg&aid=18169&nid=287)
+- [2w 字长文，让你瞬间拥有 “调用链” 开发经验](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWciiwCyI2A_JAvCyhN6uCg&aid=18170&nid=287)
+- [蚂蚁前端研发最佳实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FhZgZ-wa2OH50aYXSfjFAlw&aid=18171&nid=287)
+- [玩玩区块链：概念](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzrx5854&aid=18172&nid=287)
+- [交易所安全测试：输入输出安全](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FUu-_RzygemG5o9aJ87yHbw&aid=18173&nid=287)
+- [Web 站点接口优化实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fn6snDPdsJUasfMRcOG9UYQ&aid=18174&nid=287)
+- [刚刚 GA 的 k3s 究竟是什么？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5aprEfYSWJyVoW4trDp4Hw&aid=18175&nid=287)
+- [Elasticsearch 从入门到放弃：文档 CRUD 要牢记](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaOZnZpAC4c_dYkVW8DfNPg&aid=18176&nid=287)
+- [Apache Flink 初探](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe2641va&aid=18177&nid=287)
+- [Linux 内核初探：进程与线程](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fyrf_QRFCsEvf-hXr9gmIDg&aid=18178&nid=287)
+- [爱恨交织的红黑树](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoisJz1vz6z3N8G8xyJWI7Q&aid=18179&nid=287)
+- [解耦并不难：分布式系统中的解耦](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FArR2qtSy9lYBwXrAv4VGcA&aid=18180&nid=287)
+- [3000 字详解 Kylin 查询缓存重构](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVwuKyWo72Sew0TkJG7MmFA&aid=18181&nid=287)
+- [一场微秒级的同步事故](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-ATUodBwIRncD6irNtylpQ&aid=18182&nid=287)
+- [轻量级边缘计算 EMQ X Kuiper 与 Azure IoT Hub 集成方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhesuao6&aid=18183&nid=287)
+- [超分辨率在移动实时音视频的应用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FoBrrGAnXvAU4Y2hUfy2R4g&aid=18184&nid=287)
+- [如何回答性能优化的问题，才能打动阿里面试官？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsnQ3T86usv4rXz0MMQvFfQ&aid=18185&nid=287)
+- [如何做一名有高度的移动开发工程师](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6annoj9&aid=18186&nid=287)
+- [选方向？大数据的职位你了解多少](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FIyqusl3ctmMBTv2mkgeQBw&aid=18187&nid=287)
+- [Apollo 在基础架构中的实践经验](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F5heB5_mXXK4H0Uc9ERHTGA&aid=18188&nid=287)
+- [Spark SQL 在字节跳动的核心优化实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHbUnZcVwusEQQsq8LveeuA&aid=18189&nid=287)
+- [就写了一行代码，被狂虐问了这么多问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Ft-7YoNcFbmtoFuM6o-BNHw&aid=18190&nid=287)
+- [基于 Redis 实现的延迟消息队列](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwww9xod&aid=18191&nid=287)
+- [MySQL DBA 好帮手：dbm](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcNIZ9H1YUqnRwbOYhMglkQ&aid=18192&nid=287)
+- [wechat_flutter：Flutter 版本微信](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz81rtqe&aid=18193&nid=287)
+- [美图开源 SSD Redis KV 存储](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5sk7x41&aid=18194&nid=287)
 - [为什么你应该使用 Git 进行版本控制](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0cr5pgx&aid=18124&nid=286)
 - [对网络安全行业的深度思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpYxoDxpSQSu867lmIbsWyg&aid=18125&nid=286)
 - [[译] 编程语言中的 6 种内存模型（2016）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F81a94hi&aid=18126&nid=286)
@@ -2198,6 +2255,10 @@
 
 ## 编程之外
 
+- [架构师技术图谱](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8lhpf6%23287&aid=18155&nid=287)
+- [中年程序员该焦虑吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F3GayI8u6LvFd91T3fGjCGw&aid=18156&nid=287)
+- [程序员，别再迷恋多线程工作了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FNsgaVJekQqG1uM2ioIFrtg&aid=18157&nid=287)
+- [王坚：第一位民营企业院士](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fnbtetmo47oPsWZ3Cscmh2Q&aid=18158&nid=287)
 - [架构师技术图谱](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8lhpf6%23286&aid=18089&nid=286)
 - [还在埋头干活？给程序员的几个忠告](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FXVBUGSKO-oZzWQhWuhP2IQ&aid=18090&nid=286)
 - [你会控制情绪吗？还是被情绪控制？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FTfz_nbNn17IVpdyW_mJbeQ&aid=18091&nid=286)
