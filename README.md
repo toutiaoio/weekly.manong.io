@@ -4,7 +4,7 @@
 
 码农周刊是一份专为程序员打造的 IT 技术周刊。我们会为你精选一周 IT 技术干货，每周二发送，**完全免费**。<br/>
 **内容包括**：程序设计（架构）、人工智能、编程语言（Java, Android, iOS, Flutter, JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等。<br/>
-目前已发送 288 期，订阅用户超 20 万。[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
+目前已发送 289 期，订阅用户超 20 万。[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
 **如何加入码农周刊读者群？** 关注下方微信公众号，回复 “**入群**” 即可。<br/>
 <img src="https://img.toutiao.io/ads/dw_qrcode_560x160.png"><br/>
 
@@ -17,6 +17,9 @@
 
 ## 程序设计
 
+- [在分布式链路下，蚂蚁金服如何快速构建低成本、高可用联调环境？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjuvljt6&aid=18284&nid=289)
+- [Serverless Kubernetes 场景和架构剖析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjfca9tq&aid=18285&nid=289)
+- [2G 的 Redis 实例如何支撑千万级左右的延迟任务量？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhxidcpc&aid=18286&nid=289)
 - [阿里巴巴架构师：十问业务中台和我的答案](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FiDM-1clgezsC8ry-gk9vCg&aid=18227&nid=288)
 - [有别于 BATJ，滴滴的中台数据体系建设怎么另辟蹊径？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FOunubq5J0U5ijQsFgQZU0A&aid=18228&nid=288)
 - [为什么基础服务不应该高可用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6tu4y9r&aid=18229&nid=288)
@@ -132,6 +135,14 @@
 
 ## 人工智能
 
+- [王坚终于坐不住了，关于 AI 我们都想错了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftseaq05&aid=18324&nid=289)
+- [不确定世界的模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frlpe8na&aid=18325&nid=289)
+- [广告场景中的机器学习应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzy3iucr&aid=18326&nid=289)
+- [深度学习的 JavaScript 基础：从 callbacks 到 sync/await](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuxi4whl&aid=18327&nid=289)
+- [基于 TensorFlow.js 的迁移学习图像分类器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgd75k5v&aid=18328&nid=289)
+- [NLP 实战之基于 TFIDF 的文本相似度计算](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsuot9ho&aid=18329&nid=289)
+- [[译] 上车！带你一文了解 GPT-2 模型（transformer 语言模型可视化）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2s828at&aid=18330&nid=289)
+- [文本标注十要点](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzjiq3g4&aid=18331&nid=289)
 - [计算机是如何理解自然语言的？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FrIpqcc37VxEg1pN0ZOewZA&aid=18230&nid=288)
 - [一日千星的机器学习系统设计指南，这个英伟达小姐姐的项目火了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FX_LSll_u-KmD4Wd2Se9LWA&aid=18231&nid=288)
 - [图神经网络库 DGL 零基础上手指南（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb1u820n&aid=18232&nid=288)
@@ -457,6 +468,20 @@
 
 ## 编程语言
 
+- [甲小蛙战记：PHP2Java 排雷指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbq3qmom&aid=18332&nid=289)
+- [Stack Overflow 上 370 万浏览量的一个问题：如何比较 Java 的字符串？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhta5xrl&aid=18333&nid=289)
+- [Android App 启动优化全记录](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F17ufy1j&aid=18334&nid=289)
+- [探索 Android 内存优化方法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7pp0sff&aid=18335&nid=289)
+- [微信原图暴露的 Exif，是什么？怎么用？为什么压缩会丢失？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcs82ayl&aid=18336&nid=289)
+- [Fastlane 打包 iOS ](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjorza94&aid=18337&nid=289)
+- [深入了解 iOS 的初始化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuq1so02&aid=18338&nid=289)
+- [跨平台技术趋势及字节跳动 Flutter 架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7nnm226&aid=18339&nid=289)
+- [利用 Clojure 与 Kubernetes 部署视频流录制服务器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxbn4s2i&aid=18340&nid=289)
+- [万字长文带你深入浅出 Golang Runtime](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg98jey9&aid=18341&nid=289)
+- [[译] Go 语言的协程，系统线程以及 CPU 管理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0naj8n2&aid=18342&nid=289)
+- [Go Http Client 连接优化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp9w7gok&aid=18343&nid=289)
+- [Python metaclass 的原理和应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr9k13fo&aid=18344&nid=289)
+- [还在用 Python 自带的 httpserver？快开感受下更炫酷的 Vip 版功能吧](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjjguq2z&aid=18345&nid=289)
 - [JDK 14 来了：9 大重磅特性解读，不容错过](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FWjTz1-jSIeFd4c06NewxPg&aid=18234&nid=288)
 - [跑得好好的 Java 进程，怎么突然就瘫痪了？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F23-S5tXTqi2LSe84OoQvvA&aid=18235&nid=288)
 - [在 Android 中如何确定 App (Activity) 的启动者](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F73jy2hd&aid=18236&nid=288)
@@ -1145,6 +1170,40 @@
 
 ## 工具资料
 
+- [一周 GitHub 开源项目推荐：字节跳动、阿里巴巴、百度、饿了么](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FvuBqb8vlenBSEQrNoIqxJQ&aid=18290&nid=289)
+- [还在用 Win？教你从零把 Mac 打造成开发利器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fr5rhx80&aid=18291&nid=289)
+- [Git 常见问题及解决办法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe0q028e&aid=18292&nid=289)
+- [查询太慢？看看 ES 是如何把索引的性能压榨到极致的](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftgjdp67&aid=18293&nid=289)
+- [高德 App 全链路源码依赖分析工程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fboi1dwr&aid=18294&nid=289)
+- [微信开发工程师带你一文了解推荐领域最新工作](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3m6f9zp&aid=18295&nid=289)
+- [GDB 调试二三法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5vaksvw&aid=18296&nid=289)
+- [移动开发者的后端开发入门体验](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqvwqjv5&aid=18297&nid=289)
+- [面经：业务开发中你用到了哪些算法？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbreh507&aid=18298&nid=289)
+- [为什么大家都建议学安全先学 Web 安全呢？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fudjgkpj&aid=18299&nid=289)
+- [国信证券 RocketMQ + Spring Boot 在配置热加载的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbm1xkjl&aid=18300&nid=289)
+- [图解一致性哈希算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0zri9om&aid=18301&nid=289)
+- [关于 etcd 的一些谣言](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxeyzn9c&aid=18302&nid=289)
+- [一只爬虫（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9bbq8db&aid=18303&nid=289)
+- [[译] 一文看懂这些年比特币技术栈中的创新](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu0pko8e&aid=18304&nid=289)
+- [Spring Boot 2 中使用 Dubbo 的三重境界](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F85ub94a&aid=18305&nid=289)
+- [HTTPS 证书认证原理分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4oayj8r&aid=18306&nid=289)
+- [设置 kubernetes Pod 的 shared memory](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftdvrrwe&aid=18307&nid=289)
+- [Firefox Web Replay：前端开发者的未来利器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsg37sd4&aid=18308&nid=289)
+- [你的野花，朕的 Kibana](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiksed08&aid=18309&nid=289)
+- [成为大神，从规范 Commit Message 做起](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwhepq9i&aid=18310&nid=289)
+- [写一个 N-API 没那么难？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F691cnde&aid=18311&nid=289)
+- [Delta Lake：数据湖的数据可靠性](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3lt76lj&aid=18312&nid=289)
+- [Hbase 初识](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6qf3wf7&aid=18313&nid=289)
+- [漫话：全球 IPv4 地址正式耗尽？是时候说说到底什么是 IPv4 和 IPv6 了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvovzsqy&aid=18314&nid=289)
+- [全链路压测第一次实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7o3xlqy&aid=18315&nid=289)
+- [图解 Redis 五种数据结构底层实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs614gsy&aid=18316&nid=289)
+- [Postman 的替代品来了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fde4ekou&aid=18317&nid=289)
+- [k3d + k3s，轻松管理本地 k3s 集群](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flamp7fk&aid=18318&nid=289)
+- [蚂蚁金服 AntV 空间数据可视化引擎 L7 2.0 发布](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjykvchu&aid=18319&nid=289)
+- [istioctl 中的一些小工具](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Faq32i0m&aid=18320&nid=289)
+- [推荐一款自己开发的 VSCode mock 服务插件](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F10mnrwa&aid=18321&nid=289)
+- [Swoft 开源推荐之 Swoft-Xadmin](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2kz0782&aid=18322&nid=289)
+- [lubjs（鲁班）：快速开发并使用你的命令行工具](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk6a6i6j&aid=18323&nid=289)
 - [一周 GitHub 开源项目推荐：微软、字节跳动、腾讯、阿里巴巴](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FInRM0JDbENnuekQMZfJmUw&aid=18247&nid=288)
 - [区块链关键技术研究进展](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F9J7UmWFK4pJYXUkIzJp6EA&aid=18248&nid=288)
 - [以比特币为例，解析区块链的经济学原理](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr_n86-5Wp541Ds6of6WR1g&aid=18249&nid=288)
@@ -2304,6 +2363,10 @@
 
 ## 编程之外
 
+- [架构师技术图谱](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8lhpf6%23289&aid=18283&nid=289)
+- [谁天生就是干程序员的料？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F52t6a7c&aid=18287&nid=289)
+- [Google 帝国的接班人，凭什么是他？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxt30i5g&aid=18288&nid=289)
+- [别让自己 “墙” 了自己](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftfh5dgb&aid=18289&nid=289)
 - [架构师技术图谱](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8lhpf6%23288&aid=18223&nid=288)
 - [互联网 HR：我们是这样裁员的](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fm4vcG8jWStiDazSY2wQPEg&aid=18224&nid=288)
 - [终于可以携号转网，三大运营商做了 10 年，技术难点到底在哪？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzg3MjA4MTExMw%3D%3D%26mid%3D2247487134%26idx%3D1%26sn%3Da93cee4950ffc2fbee6d13f417d59b7a&aid=18225&nid=288)
