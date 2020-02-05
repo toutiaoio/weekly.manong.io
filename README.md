@@ -4,7 +4,7 @@
 
 码农周刊是一份专为程序员打造的 IT 技术周刊。我们会为你精选一周 IT 技术干货，每周二发送，**完全免费**。<br/>
 **内容包括**：程序设计（架构）、人工智能、编程语言（Java, Android, iOS, Flutter, JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等。<br/>
-目前已发送 292 期，订阅用户超 20 万。[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
+目前已发送 293 期，订阅用户超 20 万。[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
 **如何加入码农周刊读者群？** 关注下方微信公众号，回复 “**入群**” 即可。<br/>
 <img src="https://img.toutiao.io/ads/dw_qrcode_560x160.png"><br/>
 
@@ -17,6 +17,9 @@
 
 ## 程序设计
 
+- [不是你需要中台，而是一名合格的架构师](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl175pv3&aid=18563&nid=293)
+- [[译] 软件架构师之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F17pbqna&aid=18564&nid=293)
+- [面向数据中台的数据治理七把利剑](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frqfk5b7&aid=18565&nid=293)
 - [腾讯万亿级 Elasticsearch 技术解密](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flzigaqt&aid=18556&nid=292)
 - [大数据平台架构设计探究](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpqs9wa4&aid=18557&nid=292)
 - [之家经销商技术部日志系统设计实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkf8hz2q&aid=18558&nid=292)
@@ -144,6 +147,11 @@
 
 ## 人工智能
 
+- [深度学习在花椒直播中的应用：排序算法篇](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2tik451&aid=18566&nid=293)
+- [一文读懂 ANN](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fofd4km1&aid=18567&nid=293)
+- [[译] ​专为初学者设计：最小的神经网络](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6ey8bjp&aid=18568&nid=293)
+- [使用 PyTorch 简单实现图像分割网络 FCN](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkrhn65p&aid=18569&nid=293)
+- [你必须掌握的 Python 数据分析工具之 Numpy](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiktpm9y&aid=18570&nid=293)
 - [回顾近几年深度学习的发展](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc5j0wc3&aid=18501&nid=292)
 - [微软开源自动机器学习工具 NNI 概览及新功能详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq2ciytx&aid=18502&nid=292)
 - [[译] 60 分钟入门深度学习工具：PyTorch](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffidrgks&aid=18503&nid=292)
@@ -499,6 +507,13 @@
 
 ## 编程语言
 
+- [C++11 新特性总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8280ie4&aid=18571&nid=293)
+- [高级 Java 面试必问的三大 IO 模型，你 get 了吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpg2gucx&aid=18572&nid=293)
+- [为什么 Go 语言没有泛型？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3gok4ys&aid=18573&nid=293)
+- [2020 新春流行的 RPC 框架性能大比拼](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frjg51bx&aid=18574&nid=293)
+- [[译] Python 2 已终结，入手 Python 3，你需要这 30 个技巧](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbvrl0gh&aid=18575&nid=293)
+- [[译] 你可能不知道的 Python 技巧](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftv2y3qe&aid=18576&nid=293)
+- [掌握 JavaScript 中的 this, call, apply 的原理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq1v8osb&aid=18577&nid=293)
 - [Spring Boot 中的定时任务 @Scheduled 的使用详情及可能出现的坑](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyyuq981&aid=18507&nid=292)
 - [Android Q 强制黑暗 (ForceDark) 模式实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnudipuy&aid=18508&nid=292)
 - [Android 性能优化：内存优化实战秘籍](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fprfmf8h&aid=18509&nid=292)
@@ -1255,6 +1270,33 @@
 
 ## 工具资料
 
+- [京东占领首页项目架构揭密](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkzgdyy1&aid=18578&nid=293)
+- [解密百度前端技术体系](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdbyikco&aid=18579&nid=293)
+- [[译] 一切系统都是分布式的 (OReilly, 2015)](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ferplffd&aid=18580&nid=293)
+- [为什么选择 Pulsar 而非 Kafka？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftgg2pc3&aid=18581&nid=293)
+- [推荐系统的 UI 交互与视觉展示](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fks51nh0&aid=18582&nid=293)
+- [一文学会链表解题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxbew1n3&aid=18583&nid=293)
+- [高质量前端快照方案：来自页面的 “自拍”](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flvtm5kv&aid=18584&nid=293)
+- [Azkaban 在一点资讯的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhe3lcfm&aid=18585&nid=293)
+- [MySQL 的 InnoDB 存储引擎是怎么设计的？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffqy21if&aid=18586&nid=293)
+- [Linux 后台服务启动方式 systemd、daemon、nohup 大比拼](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhn761x0&aid=18587&nid=293)
+- [聊一聊计算机科学领域最重要的抽象之一：地址转换](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkfuznsx&aid=18588&nid=293)
+- [Flink 中的一把锁](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foclb2x3&aid=18589&nid=293)
+- [区块链时代的拜占庭将军（下）：区块链共识算法的发展趋势](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbfecy3u&aid=18590&nid=293)
+- [[译] 状态管理中的第一性原理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2g1dfx7&aid=18591&nid=293)
+- [[译] Tinder 迁移至 Kubernetes 之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg7knq5a&aid=18592&nid=293)
+- [解决百度爬虫无法爬取 GitHub Pages 个人博客的问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4yimh2w&aid=18593&nid=293)
+- [携程 ClickHouse 日志分析实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F98b1zsz&aid=18594&nid=293)
+- [gRPC Name Resolver 原理及实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftazdpo4&aid=18595&nid=293)
+- [CI/CD：Tekton Pipeline 实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F22e0hzz&aid=18596&nid=293)
+- [Filebeat + Kafka + ELK 分布式日志收集](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgz54sz8&aid=18597&nid=293)
+- [OPPO 异地多活实践：缓存篇](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvzelycv&aid=18598&nid=293)
+- [如果中台是药，那么一定是中药](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg189bsx&aid=18599&nid=293)
+- [DDD：识别限界上下文以及理解上下文映射](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc36ruqo&aid=18600&nid=293)
+- [系统负载看不懂？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc3rbus5&aid=18601&nid=293)
+- [Spark Streaming 数据限流简述](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi3gcnlz&aid=18602&nid=293)
+- [wuhan2020：武汉新型冠状病毒防疫信息收集平台](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Faeg4mlu&aid=18603&nid=293)
+- [不容错过的 Node.js 资源集](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkojbx9y&aid=18604&nid=293)
 - [一周 GitHub 开源项目推荐：12306、腾讯、美团点评、陌陌](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Framqm0s&aid=18527&nid=292)
 - [[译] 2020 年软件开发趋势](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9eltrwf&aid=18528&nid=292)
 - [Gartner：影响 2020 年基础架构和运营的十大趋势](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm8p9fgv&aid=18529&nid=292)
@@ -2536,6 +2578,10 @@
 
 ## 编程之外
 
+- [宅久了？加入《码农周刊精品阅读圈》吧！](https://weekly.manong.io/bounce?url=https%3A%2F%2Ft.zsxq.com%2FZN7EEMj%23293&aid=18559&nid=293)
+- [萌妹子裸辞留学，零基础自学编程，拿到 Google、微软 Offer](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffzfv8cg&aid=18560&nid=293)
+- [战疫，微软资深高管的十余年远程办公管理经验分享](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2dae5nw&aid=18561&nid=293)
+- [口罩为什么会短缺？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F09otqtm&aid=18562&nid=293)
 - [你与 BAT 技术大牛只差一个圈子的距离](https://weekly.manong.io/bounce?url=https%3A%2F%2Ft.zsxq.com%2FZN7EEMj%23292&aid=18497&nid=292)
 - [2020 年，陆奇 59 岁：我给 20、30、40 岁年轻人的建议](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5cpcki7&aid=18498&nid=292)
 - [我是如何从学渣成为程序员的](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2dut3n1&aid=18499&nid=292)
