@@ -4,7 +4,7 @@
 
 码农周刊是一份专为程序员打造的 IT 技术周刊。我们会为你精选一周 IT 技术干货，每周二发送，**完全免费**。<br/>
 **内容包括**：程序设计（架构）、人工智能、编程语言（Java, Android, iOS, Flutter, JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等。<br/>
-目前已发送 296 期，订阅用户超 20 万。[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
+目前已发送 297 期，订阅用户超 20 万。[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
 **如何加入码农周刊读者群？** 关注下方微信公众号，回复 “**入群**” 即可。<br/>
 <img src="https://img.toutiao.io/ads/dw_qrcode_560x160.png"><br/>
 
@@ -17,6 +17,9 @@
 
 ## 程序设计
 
+- [领域驱动设计 (DDD) 实践之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5gxk4ss&aid=18803&nid=297)
+- [Data Lake 架构揭秘](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg0xaal7&aid=18804&nid=297)
+- [爱奇艺号微前端架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnwog8cj&aid=18805&nid=297)
 - [千万级流量业务的 Serverless 实践，看 FaaS 给前端带来的变化](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftzo9lwk&aid=18742&nid=296)
 - [OPPO 自研数据采集系统 ESA DataFlow 架构与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvg0zugk&aid=18743&nid=296)
 - [金融行业 IT 运维监控体系的建设内幕](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs15r8vc&aid=18744&nid=296)
@@ -156,6 +159,12 @@
 
 ## 人工智能
 
+- [基于 SOC 机器学习检测平台的时间序列建模：可疑登录检测](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F88vv3ne&aid=18806&nid=297)
+- [[译] LSTM 之父发文：2010-2020，我眼中的深度学习十年简史](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fg3t4eci&aid=18807&nid=297)
+- [广告行业中那些趣事（五）：BERT 实战多标签标注模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzohawcy&aid=18808&nid=297)
+- [元学习与自然语言处理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffv4mjpp&aid=18809&nid=297)
+- [双 DNN 排序模型：在线知识蒸馏在爱奇艺推荐的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuj5oc7k&aid=18810&nid=297)
+- [理解循环网络及其在移动端的趣味应用：AI 诗人](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc2mxqfw&aid=18811&nid=297)
 - [智能设计 v3.0](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6mzpv34&aid=18772&nid=296)
 - [智能配送系统的运筹优化实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkgi7ao4&aid=18773&nid=296)
 - [何时能懂你的心：图卷积神经网络 (GCN)](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjxipziv&aid=18774&nid=296)
@@ -533,6 +542,22 @@
 
 ## 编程语言
 
+- [[译] C++20：四巨头](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwcqevyz&aid=18846&nid=297)
+- [最通俗易懂的 Java 10 新特性讲解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqoazqq2&aid=18847&nid=297)
+- [面试官：你说你熟悉 JVM ？那你讲一下并发的可达性分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvtxz1rd&aid=18848&nid=297)
+- [为什么给 Java 代码加个空行，class 文件就翻脸不认人了？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy0eaurx&aid=18849&nid=297)
+- [动态下发 so 库在 Android APK 安装包瘦身方面的应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvc15z7j&aid=18850&nid=297)
+- [Android Studio 3.6 正式版终于发布了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F50qorlr&aid=18851&nid=297)
+- [基于 Kotlin 特性开发的有限状态机](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffvhtzfh&aid=18852&nid=297)
+- [2020 年中国 .NET 开发者调查报告](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa9susq0&aid=18853&nid=297)
+- [打破重重阻碍，Flutter 和 Web 生态如何对接？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fstz4z8v&aid=18854&nid=297)
+- [深入理解 PHP 7 内核之 HashTable](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F18ps2kc&aid=18855&nid=297)
+- [如何用 Python 在京东上抢口罩](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F25mo830&aid=18856&nid=297)
+- [[译] ​5 个原因告诉你，为什么说 Julia 比 Python 要好？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8vbpk4c&aid=18857&nid=297)
+- [[译] Go 语言之禅](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgfw5529&aid=18858&nid=297)
+- [[译] Go 实现区块链（七）：网络](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqzhe9fz&aid=18859&nid=297)
+- [吊打 JavaScript 之从原型到原型链](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm94uo50&aid=18860&nid=297)
+- [[译] 教你用 16 个小时从 0 构建一个 Rust 应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9rh0r01&aid=18861&nid=297)
 - [[译] C++20 完成了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F61rlc4x&aid=18777&nid=296)
 - [JDK 14 都要出了，JDK 9 的新特性还不了解一下？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkrb4d70&aid=18778&nid=296)
 - [《深入理解 Java 虚拟机》第 2 版挖的坑终于在第 3 版中被 R 大填平了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1f6feve&aid=18779&nid=296)
@@ -1347,6 +1372,41 @@
 
 ## 工具资料
 
+- [首次公开！廖雪峰的大数据开发精品视频 + Xmind 学习路径图](https://weekly.manong.io/bounce?url=https%3A%2F%2Fdatayi.cn%2Fw%2FnoqwDDVR&aid=18802&nid=297)
+- [这是我见过 HTTP 和 RPC 最好一战](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxdufduy&aid=18812&nid=297)
+- [阿里等大厂需求研发/开发流程，没想到这么复杂吧？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv5k7nin&aid=18813&nid=297)
+- [爱了爱了，这个 GitHub 的 Chrome 神仙插件把我整的服服帖帖的](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnuphd6o&aid=18814&nid=297)
+- [Redis 面试全攻略](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpidhjfk&aid=18815&nid=297)
+- [分布式 ID 生成方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fypxzkfo&aid=18816&nid=297)
+- [2019 我的技术之路：分布式系统到分布式制造](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4n3knao&aid=18817&nid=297)
+- [Docker 原理剖析：基本介绍](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjcut1s9&aid=18818&nid=297)
+- [一个白学家眼里的 WebAssembly](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fomy40ct&aid=18819&nid=297)
+- [RocksDB 内部数据组织方式介绍及性能压测](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6ev408p&aid=18820&nid=297)
+- [Zabbix 对接飞书实现带图片的报警通知](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpf1ettu&aid=18821&nid=297)
+- [常用 Vim 命令及实用 Vim 按键映射配置详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzk4xjq1&aid=18822&nid=297)
+- [前端缓存](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc0uh46g&aid=18823&nid=297)
+- [云原生攻防研究：容器逃逸技术概览](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiolbnad&aid=18824&nid=297)
+- [如何做监控？Google SRE 解密](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsdedql4&aid=18825&nid=297)
+- [Golang：你真的了解 HTTPS 吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzqnhno3&aid=18826&nid=297)
+- [为什么流媒体直播的延迟很高](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frpzkvum&aid=18827&nid=297)
+- [埋点治理：如何把 App 埋点做到极致？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fys4clid&aid=18828&nid=297)
+- [疫情过后工业企业数字化转型方向的深度思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8xsr27o&aid=18829&nid=297)
+- [借助 SPI 解决复杂业务扩展问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs6avvn8&aid=18830&nid=297)
+- [CIS Kubernetes 安全基准指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd7dw50t&aid=18831&nid=297)
+- [Service Mesh 的由来](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fogwro0r&aid=18832&nid=297)
+- [花椒直播 Kong 应用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F82560ps&aid=18833&nid=297)
+- [Docker 的镜像基本原理和概念](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fabqv82p&aid=18834&nid=297)
+- [一个故事看懂 Linux 文件权限管理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F788kl2y&aid=18835&nid=297)
+- [GraphQL + Space Cloud 简化你的 API 设计](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxmbmu23&aid=18836&nid=297)
+- [Git 分支设计规范](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fplu0ohe&aid=18837&nid=297)
+- [k8s 调度器核心数据结构与算法分析（一）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fffi41yc&aid=18838&nid=297)
+- [基于有限状态机的广告状态管理方案及实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F38v9at5&aid=18839&nid=297)
+- [通过开源项目获取 GoLand 免费开源授权](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F28rl7bh&aid=18840&nid=297)
+- [从 Kubernetes 资源控制到开放应用模型，控制器的进化之旅](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foaca40l&aid=18841&nid=297)
+- [一本彻底搞懂 MySQL 索引优化 EXPLAIN 百科全书](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhh6xndq&aid=18842&nid=297)
+- [五分钟自学编程：怎么学计算机网络](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs4fpa0o&aid=18843&nid=297)
+- [谈一谈 Linux 与 suid 提权](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fiaaivbm&aid=18844&nid=297)
+- [一个给程序员用的自定义网络数据监控 Chrome 扩展](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvooeplf&aid=18845&nid=297)
 - [开发者头条读者交流群，欢迎加入！ ](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fa60ek7f1-ZisYra8lPU9Ig&aid=18745&nid=296)
 - [重磅 | GitHub 正式开源命令行工具 GitHub CLI](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4blz5od&aid=18746&nid=296)
 - [Emacs 中的游戏与乐趣](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz7pvfd2&aid=18747&nid=296)
@@ -2736,6 +2796,10 @@
 
 ## 编程之外
 
+- [你与 BAT 技术大牛只差一个圈子的距离！](https://weekly.manong.io/bounce?url=https%3A%2F%2Ft.zsxq.com%2FZN7EEMj%23297&aid=18798&nid=297)
+- [微盟 “删库” 144 小时](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsudi594&aid=18799&nid=297)
+- [湾区初级码农理财经验谈](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp41kt29&aid=18800&nid=297)
+- [远程工作如何提高效率](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8t94t1c&aid=18801&nid=297)
 - [你与 BAT 技术大牛只差一个圈子的距离！](https://weekly.manong.io/bounce?url=https%3A%2F%2Ft.zsxq.com%2FZN7EEMj%23296&aid=18738&nid=296)
 - [今年困难模式，你跳槽还只是靠大量投简历吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fax027la&aid=18739&nid=296)
 - [在技术和业务中保持平衡](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8bb8k4k&aid=18740&nid=296)
