@@ -4,7 +4,7 @@
 
 码农周刊是一份专为程序员打造的 IT 技术周刊。我们会为你精选一周 IT 技术干货，每周二发送，**完全免费**。<br/>
 **内容包括**：程序设计（架构）、人工智能、编程语言（Java, Android, iOS, Flutter, JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等。<br/>
-目前已发送 301 期，订阅用户超 20 万。[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
+目前已发送 302 期，订阅用户超 20 万。[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
 **如何加入码农周刊读者群？** 关注下方微信公众号，回复 “**入群**” 即可。<br/>
 <img src="https://img.toutiao.io/ads/dw_qrcode_560x160.png"><br/>
 
@@ -17,6 +17,9 @@
 
 ## 程序设计
 
+- [在一家独角兽公司做业务中台：打铁硬，不跟风](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcdljxpo&aid=19114&nid=302)
+- [揭秘微信「看一看」如何精准挖掘你感兴趣的内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fupo8zjn&aid=19115&nid=302)
+- [亿级前端项目中的 3D 技术：支付宝 2020 年新春活动的背后](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft55e17k&aid=19116&nid=302)
 - [架构师的 36 项修炼](https://weekly.manong.io/bounce?url=https%3A%2F%2Ft.lagou.com%2F3REERZR8RU435%23301&aid=19047&nid=301)
 - [微信 10 亿日活场景下，后台系统微服务架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftr32h3p&aid=19048&nid=301)
 - [一文道尽软件架构及前端架构演进](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4c5x4fc&aid=19049&nid=301)
@@ -569,6 +572,14 @@
 
 ## 编程语言
 
+- [Java 14 开箱，它真香香香香](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1tfglez&aid=19119&nid=302)
+- [Java 程序该怎么优化？（实战篇）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsc85ef3&aid=19120&nid=302)
+- [BAT 大神都在用的 Android Studio 插件](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7dywg1g&aid=19121&nid=302)
+- [全网最详！暗黑模式在 Trip.com App 的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc6huc5s&aid=19122&nid=302)
+- [[译] Go 语言之父带你重新认识字符串、字节、rune 和字符](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1seirv5&aid=19123&nid=302)
+- [Golang 中的内置函数](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl68aih2&aid=19124&nid=302)
+- [Golang HTTP 服务平滑重启及升级](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Forx42xm&aid=19125&nid=302)
+- [React Native 在汽车人 App 上的应用与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F43gzzya&aid=19126&nid=302)
 - [Java 14 GA 版本正式发布](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn55h023&aid=19055&nid=301)
 - [深入浅出 Java 虚拟机](https://weekly.manong.io/bounce?url=https%3A%2F%2Ft.lagou.com%2F3R88RlRHRU4D5%23301&aid=19056&nid=301)
 - [Java 程序该怎么优化？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwuqas9r&aid=19057&nid=301)
@@ -1455,6 +1466,20 @@
 
 ## 工具资料
 
+- [微服务超全的设计选型参考](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F08ex0sl&aid=19127&nid=302)
+- [抓包神器：tcpdump](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs2xj8sg&aid=19128&nid=302)
+- [MIT 6.824 分布式系统课程第四课：主备复制](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fssa331p&aid=19129&nid=302)
+- [规范化 git commit 信息](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7q7adba&aid=19130&nid=302)
+- [基于 B+Tree 的索引实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9mcue5a&aid=19131&nid=302)
+- [或许你不知道的 12 条 SQL 技巧](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpii5uxa&aid=19132&nid=302)
+- [作为一个程序员，你应该知道的编码知识](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxhrdukq&aid=19133&nid=302)
+- [如何设计一款暗度陈仓的反爬虫](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqcb56b2&aid=19134&nid=302)
+- [一文带你彻底理解文件系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F66paoeo&aid=19135&nid=302)
+- [深入理解 MySQL 索引](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fj02wtn8&aid=19136&nid=302)
+- [Kubernetes 集群规模杂谈](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyif8qnu&aid=19137&nid=302)
+- [DevOps 总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdhvyzmt&aid=19138&nid=302)
+- [一个清爽的 VUE UI 组件库](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpyfso0p&aid=19139&nid=302)
+- [Go 实现 LeetCode 全集](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1pre8xr&aid=19140&nid=302)
 - [Google 资深工程师带你玩转数据结构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ft.lagou.com%2F3R42RuRyRUB51%23301&aid=19075&nid=301)
 - [300 分钟吃透分布式缓存](https://weekly.manong.io/bounce?url=https%3A%2F%2Ft.lagou.com%2F3RC0RcRuRUF42%23301&aid=19076&nid=301)
 - [一份来自亚马逊工程师的 Google 面试指南：GitHub 10w+ Star，中文版](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7qxkysk&aid=19077&nid=301)
@@ -3000,6 +3025,9 @@
 
 ## 编程之外
 
+- [码农周刊VIP会员特权](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%23vip&aid=19113&nid=302)
+- [软件开发者升职加薪的 8 项技能](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv1ljj9g&aid=19117&nid=302)
+- [对话极客楼天城：天才说的是高度，而不是速度](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx0ponep&aid=19118&nid=302)
 - [腾讯产品启示录](https://weekly.manong.io/bounce?url=https%3A%2F%2Ft.lagou.com%2FmR05RuRvRkD9E%23301&aid=19051&nid=301)
 - [大龄程序员都去哪了？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F66ty7p7&aid=19052&nid=301)
 - [聊聊面试的事](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnhhsxvd&aid=19053&nid=301)
