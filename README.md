@@ -4,7 +4,7 @@
 
 码农周刊是一份专为程序员打造的 IT 技术周刊。我们会为你精选一周 IT 技术干货，每周二发送，**完全免费**。<br/>
 **内容包括**：程序设计（架构）、人工智能、编程语言（Java, Android, iOS, Flutter, JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等。<br/>
-目前已发送 302 期，订阅用户超 20 万。[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
+目前已发送 303 期，订阅用户超 20 万。[**订阅地址**](https://weekly.manong.io/?ref=github)<br/>
 **如何加入码农周刊读者群？** 关注下方微信公众号，回复 “**入群**” 即可。<br/>
 <img src="https://img.toutiao.io/ads/dw_qrcode_560x160.png"><br/>
 
@@ -17,6 +17,9 @@
 
 ## 程序设计
 
+- [做了那么多架构，你真的懂 SOA 了吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9zioqym&aid=19147&nid=303)
+- [企业级业务架构的设计难点](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff2k82f6&aid=19148&nid=303)
+- [靠谱程序员必备技能：重构也要有方法论](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1m60x53&aid=19149&nid=303)
 - [在一家独角兽公司做业务中台：打铁硬，不跟风](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcdljxpo&aid=19114&nid=302)
 - [揭秘微信「看一看」如何精准挖掘你感兴趣的内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fupo8zjn&aid=19115&nid=302)
 - [亿级前端项目中的 3D 技术：支付宝 2020 年新春活动的背后](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ft55e17k&aid=19116&nid=302)
@@ -572,6 +575,17 @@
 
 ## 编程语言
 
+- [细数 Java 项目中用过的配置文件（properties 篇）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1u4b5f1&aid=19150&nid=303)
+- [Java 对象在虚拟机中到底是什么样子？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvok6co1&aid=19151&nid=303)
+- [深入探索编译插桩技术（四）：ASM 探秘](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkokd2se&aid=19152&nid=303)
+- [App 黑白化实现探索，有一行代码实现的方案吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4kom115&aid=19153&nid=303)
+- [应用 Flask 开发在线证书颁发系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2pwngpx&aid=19154&nid=303)
+- [[译] Golang vs Python：选哪个？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhed5bdz&aid=19155&nid=303)
+- [Protobuf 生成 Go 代码指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuw2ojz9&aid=19156&nid=303)
+- [使用 Golang 理解 MySQL 的两阶段提交](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhqd4451&aid=19157&nid=303)
+- [Go 和 Rust 的优缺点；预测 Go 1.16-1.19 会支持泛型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb8y9c8d&aid=19158&nid=303)
+- [JavaScript 之选择控制语句及很重要的表达式真与假](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fel3b9hx&aid=19159&nid=303)
+- [[译] 人们不使用 CSS 新功能的 5 个原因](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl1oju4y&aid=19160&nid=303)
 - [Java 14 开箱，它真香香香香](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1tfglez&aid=19119&nid=302)
 - [Java 程序该怎么优化？（实战篇）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsc85ef3&aid=19120&nid=302)
 - [BAT 大神都在用的 Android Studio 插件](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7dywg1g&aid=19121&nid=302)
@@ -1466,6 +1480,24 @@
 
 ## 工具资料
 
+- [如何构建A/B测试系统，其核心功能有哪些？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuucnvmc&aid=19161&nid=303)
+- [如何安全存储密码都不知道，难怪我被面试官吊打呢…… 学完这个一定打回去](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flq4sj7q&aid=19162&nid=303)
+- [教你免费搭建一个技术博客](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwl7xc85&aid=19163&nid=303)
+- [实战 MySQL 参数调优](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnas6eyi&aid=19164&nid=303)
+- [程序员必备之终端模拟器，让你的终端世界多一抹 “颜色”](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftnklig7&aid=19165&nid=303)
+- [徒手撸一个扫码登录示例工程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7wlsmxh&aid=19166&nid=303)
+- [Kubernetes HPA 使用详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv3ryi3k&aid=19167&nid=303)
+- [fsck 是如何工作的](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frvy7p6d&aid=19168&nid=303)
+- [详解国密 SM2 的数字签名](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F91cjo4e&aid=19169&nid=303)
+- [基于 Roslyn 实现一个简单的条件解析引擎](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxeyvv8t&aid=19170&nid=303)
+- [TCP 漫谈之 keepalive 和 time_wait](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1r2sxur&aid=19171&nid=303)
+- [Web “性能测试” 知多少？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxiki94u&aid=19172&nid=303)
+- [第一个用 Electron 开发的桌面应用程序](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhunn127&aid=19173&nid=303)
+- [Jenkins 打造多分支流水线指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzswaoj6&aid=19174&nid=303)
+- [未合并分支不怕丢，一个脚本快速搞定](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fexqyc7j&aid=19175&nid=303)
+- [Kbone 框架快速上手：把 Web 端代码直接移植到小程序的工具是否好用？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzwnwmy5&aid=19176&nid=303)
+- [自动化用例开发过程中的常见技巧：代理模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa1spd8x&aid=19177&nid=303)
+- [廖雪峰历时 3 个月打磨出价值 1980 的数据分析教程，终终终于免费啦！](https://weekly.manong.io/bounce?url=https%3A%2F%2Fdatayi.cn%2Fw%2Fnomk0YMR&aid=19184&nid=303)
 - [微服务超全的设计选型参考](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F08ex0sl&aid=19127&nid=302)
 - [抓包神器：tcpdump](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fs2xj8sg&aid=19128&nid=302)
 - [MIT 6.824 分布式系统课程第四课：主备复制](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fssa331p&aid=19129&nid=302)
@@ -3025,6 +3057,10 @@
 
 ## 编程之外
 
+- [抢完口罩呼吸机，美国的州长们开始抢退休程序员了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmpdvtbo&aid=19144&nid=303)
+- [程序员职场背锅甩锅指南](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwsrxke7&aid=19145&nid=303)
+- [在家办公我差点变成废柴，多亏了这张图](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuv0gshc&aid=19146&nid=303)
+- [码农周刊VIP会员招募中，欢迎加入](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3031%23vip&aid=19186&nid=303)
 - [码农周刊VIP会员特权](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%23vip&aid=19113&nid=302)
 - [软件开发者升职加薪的 8 项技能](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv1ljj9g&aid=19117&nid=302)
 - [对话极客楼天城：天才说的是高度，而不是速度](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx0ponep&aid=19118&nid=302)
