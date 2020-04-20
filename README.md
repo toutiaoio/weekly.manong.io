@@ -5,7 +5,8 @@
 码农周刊是一份专为广大程序员、编程爱好者们打造的IT技术周刊。每周发送。<br/>
 2013年9月12日创刊至今，已发送300多期，订阅用户超20万。<br/>
 专业、简单、有用，是我们一直坚持的办刊宗旨。一路走来，我们见证了不少订阅用户从编程新手进阶成了高级程序员、架构师、CTO……<br/>
-内容包括：程序设计（架构）、人工智能、编程语言（Java, Android, iOS, Flutter, JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等。<br/>
+内容包括：程序设计（架构）、人工智能、编程语言（Java, Android, iOS, Flutter,
+JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等。<br/>
 **码农周刊VIP会员**招募中，微信扫描下方二维码，[**立刻加入**](https://weekly.manong.io/bounce?nid=303&aid=19186&url=https%3A%2F%2Fvip.manong.io%2F%3Fgithub%23vip)！<br/>
 <img src="https://img.toutiao.io/ads/vip_303.png"><br/>
 欢迎订阅《码农周刊》！[**订阅地址**](https://weekly.manong.io/bounce?nid=303&aid=19186&url=https%3A%2F%2Fvip.manong.io%2F%3Fgithub%23vip)<br/>
@@ -3248,4 +3249,3 @@
 <br/>
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
