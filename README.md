@@ -11,7 +11,6 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ![](vip.png)
 
->>>>>>> 701723c3cbf8f5b6922ee0e73bc82cf7fd45f474
 欢迎订阅《码农周刊》！[**订阅地址**](https://weekly.manong.io/bounce?nid=303&aid=19186&url=https%3A%2F%2Fvip.manong.io%2F%3Fgithub%23vip)<br/>
 
 - [程序设计](#程序设计)
