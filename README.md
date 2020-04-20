@@ -9,7 +9,7 @@
 JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等。<br/>
 **码农周刊VIP会员**招募中，微信扫描下方二维码，[**立刻加入**](https://weekly.manong.io/bounce?nid=303&aid=19186&url=https%3A%2F%2Fvip.manong.io%2F%3Fgithub%23vip)！<br/>
 
-![](vip.png)
+<img src="https://img.toutiao.io/ads/vip_github.png"><br/>
 
 欢迎订阅《码农周刊》！[**订阅地址**](https://weekly.manong.io/bounce?nid=303&aid=19186&url=https%3A%2F%2Fvip.manong.io%2F%3Fgithub%23vip)<br/>
 
