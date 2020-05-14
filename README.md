@@ -22,6 +22,9 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 程序设计
 
+- [Google 安全团队新书《Building Secure & Reliable Systems》](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FB8IGjlwQ16PSZHTQoCgH6A&aid=19278&nid=306)
+- [美团 OCTO 万亿级数据中心计算引擎技术解析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm3b0mht&aid=19279&nid=306)
+- [[译] 高性能前端架构解决方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxbg9x4z&aid=19280&nid=306)
 - [架构设计基础：单服务、集群、分布式的基本区别和联系](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqfdoann&aid=19231&nid=305)
 - [悟空活动中台：微组件状态管理（上）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqomitvk&aid=19232&nid=305)
 - [高可用 Prometheus：问题集锦](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FadthfL1N1LkF39a1yXQlTg&aid=19233&nid=305)
@@ -586,6 +589,18 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程语言
 
+- [阿里巴巴技术团队最新发布的 Java 开发手册（泰山版）](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FfEBP08_fg90IKMNhPlDTbA&aid=19274&nid=306)
+- [Java 8 函数式编程：Lambda 表达式和方法引用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4x1zdt5&aid=19281&nid=306)
+- [接近 8000 字的 Spring/Spring Boot 常用注解总结！安排](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7wygpo6&aid=19282&nid=306)
+- [基于对象可达性原理解决 Handler 引起内存泄露问题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fklg5lkc&aid=19283&nid=306)
+- [Kotlin 多态和扩展学习笔记（五）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fagg8vrk&aid=19284&nid=306)
+- [iOS 13 + Safari 启用陀螺仪授权](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwmb1bxm&aid=19285&nid=306)
+- [Flutter 主题切换：让你的 App 也能一键换肤](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsra9nsp&aid=19286&nid=306)
+- [Scala 类型层次结构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi8uticy&aid=19287&nid=306)
+- [学会使用 context 取消 goroutine 执行的方法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4xbxodi&aid=19288&nid=306)
+- [Golang 中的 sync.Pool 对象](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxmecw1d&aid=19289&nid=306)
+- [Vue 灵魂之问：为什么说 Vue 的响应式体系可以精确到组件级别的更新？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F544851l&aid=19290&nid=306)
+- [[译] 如何在 Vue 3 中使用生命周期函数](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff4hs7uk&aid=19291&nid=306)
 - [Java 线程基础，从这篇开始](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxau7sqd&aid=19237&nid=305)
 - [不要让你的 Java 对象逃逸了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fc7pr98o&aid=19238&nid=305)
 - [[译] 谈谈 Spring Boot 事件机制](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu6p1pa3&aid=19239&nid=305)
@@ -1515,6 +1530,29 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 工具资料
 
+- [让天下没有苦逼的运维！试试这个工具吧！](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7MV3jc3U6ZfXsnm7USgzgg&aid=19292&nid=306)
+- [设计模式太难了？看看这个 “说人话” 的版本再说！](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVM_IEmLWsK2cPuGRdLUXOA&aid=19293&nid=306)
+- [更高效地刷 LeetCode？试试这个吧！](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FkXinP6mYtAmCYfae5fUf1A&aid=19294&nid=306)
+- [贼好用的 Java 工具类库，12k+ Star，你在用吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fu4qfRTSMgScLhRmGT0SkLA&aid=19295&nid=306)
+- [想自学 Python？推荐一个良心的 Python 教程](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FpaxKy_aKhA0D86IE_cEJpw&aid=19296&nid=306)
+- [进程管理工具 Supervisor](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl97zk94&aid=19297&nid=306)
+- [YOLOv4 来了！COCO 43.5 AP，65 FPS！实现速度与精度的最优平衡](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flqtc19j&aid=19298&nid=306)
+- [如何阅读源码？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F36tbvna&aid=19299&nid=306)
+- [为什么 0.1 + 0.2 = 0.3](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7njaesk&aid=19300&nid=306)
+- [Elasticsearch 支持拼音自动补全](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwry1y1q&aid=19301&nid=306)
+- [Service Mesh 和 API Gateway 关系深度探讨](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t5wgr6&aid=19302&nid=306)
+- [HTTP 的基本概念](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvsi5hza&aid=19303&nid=306)
+- [使用 Reactor 响应式编程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F05djgxk&aid=19304&nid=306)
+- [Envoy 基础教程：使用 Unix Domain Socket 与上游集群通信](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fftfsnze&aid=19305&nid=306)
+- [流量分析在安全攻防上的探索实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqe28bew&aid=19306&nid=306)
+- [LFU 五种实现方式，从简单到复杂](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Felsj1c6&aid=19307&nid=306)
+- [OpenStack 之 log 详解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fziz4xwv&aid=19308&nid=306)
+- [挖矿 = 求解一个合适的 nonce 整数，区块链与加密数字货币知识科普](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7qbpk18&aid=19309&nid=306)
+- [Numpy 和 Pandas 性能改善的方法和技巧](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2xfxi5j&aid=19310&nid=306)
+- [[译] 敏捷案例：亚马逊是如何敏捷起来的](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5sddabl&aid=19311&nid=306)
+- [[译] 深入理解 IPFS：消费/订阅系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fax1u0b9&aid=19312&nid=306)
+- [三年之久的 etcd3 数据不一致 bug 分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fktso06v&aid=19313&nid=306)
+- [携程机票前端 UI 自动化与持续集成升级实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1d7fi0u&aid=19314&nid=306)
 - [「架构师技术图谱」上 GitHub 热榜了，助你早日成为架构师！](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvu7z6rh&aid=19247&nid=305)
 - [有了这套题解，再也不怕刷 LeetCode 了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcgm1s49&aid=19248&nid=305)
 - [Git 入门太难？试试这个教程吧](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flutvozo&aid=19249&nid=305)
@@ -3126,6 +3164,9 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程之外
 
+- [我是如何被逼到向我软件的破解者道歉的？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkm1ahiz&aid=19275&nid=306)
+- [传统企业的人才们，先别忙着跳 “互联网”](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwssfon3&aid=19276&nid=306)
+- [二线城市的程序员活得好吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwpnn942&aid=19277&nid=306)
 - [第 003 期「码农周刊 VIP 会员专属邮件周报」，请查收](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmJWQCfIAWzy3VgRqTD89CQ&aid=19230&nid=305)
 - [大厂的技术牛人在读什么？书单来了！](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F7NwYele6yXVDFUhlBwpyyA&aid=19234&nid=305)
 - [[译] 花时间投资自己](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0feii1c&aid=19235&nid=305)
