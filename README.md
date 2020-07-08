@@ -22,6 +22,10 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 程序设计
 
+- [哔哩哔哩「会员购」在流量回放上的探索](https://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.bilibili.com%2Fread%2Fcv6168589&aid=19523&nid=311)
+- [DMP 平台在贝壳的实践和应用](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn42uktw&aid=19524&nid=311)
+- [走出微服务误区：避免从单体到分布式单体](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fovtxful&aid=19525&nid=311)
+- [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3111%23buy&aid=19568&nid=311)
 - [爱奇艺网络协程编写高并发应用实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0zlqh2o&aid=19476&nid=310)
 - [QQ 音乐 PB 级 ClickHouse 实时数据平台架构演进之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7g24z36&aid=19477&nid=310)
 - [通过不断地失败来避免失败，携程混沌工程实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FJfTl4ZuQ2e-Ltn92aME_Dw&aid=19478&nid=310)
@@ -604,6 +608,18 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程语言
 
+- [在 Java 虚拟机上班是一种怎样的体验？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fen3ci83&aid=19529&nid=311)
+- [Spring Boot 构建 Docker 镜像的 3 种方式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F56fittd&aid=19530&nid=311)
+- [一文了解 Netty 整体流程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpaciu8u&aid=19531&nid=311)
+- [使用 Android Studio Profiler 工具解析应用的内存和 CPU 使用数据](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FMIuSi85lnrETqq3rl0Hc6A&aid=19532&nid=311)
+- [美团外卖 Flutter 动态化实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FwjEvtvexYytzSy5RwqGQyw&aid=19533&nid=311)
+- [写在 PHP 8 发布之前的话](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe1e0xpt&aid=19534&nid=311)
+- [Go 泛型是怎么实现的？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fo07xtru&aid=19535&nid=311)
+- [走进 Golang 之 Channel 的数据结构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm6tuje5&aid=19536&nid=311)
+- [Python 为什么不支持 i++ 自增语法，不提供 ++ 操作符？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foc2gui7&aid=19537&nid=311)
+- [一文读懂 JavaScript 深拷贝与浅拷贝](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fbhyt-Cup_fTEejRWBsvsHA&aid=19538&nid=311)
+- [Vue3 的 Proxy 能做到哪些精确的拦截操作？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftesg7o3&aid=19539&nid=311)
+- [成为「码农周刊 VIP 会员」，查看更多「编程语言」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3113%23buy&aid=19570&nid=311)
 - [C++ 模板编程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Furkx9wp&aid=19479&nid=310)
 - [Java 面试题全梳理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcdg6vt8&aid=19480&nid=310)
 - [终于有一个 Java 可以用的微信机器人了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frgy505e&aid=19481&nid=310)
@@ -1592,6 +1608,25 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 工具资料
 
+- [你一定要了解的 Kubernetes](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F77gar30&aid=19541&nid=311)
+- [我终于搞清了啥是 HTTPS 了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frdxllye&aid=19542&nid=311)
+- [Filebeat 收集日志的那些事儿](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgus7nv2&aid=19543&nid=311)
+- [一文带你彻底学会 Git Hooks 配置](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy2tamtp&aid=19544&nid=311)
+- [独孤九剑：算法模型训练的一般流程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa9uppjm&aid=19545&nid=311)
+- [分分钟教会你搭建企业级的 npm 私有仓库](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkcb546w&aid=19546&nid=311)
+- [Regression Tree 回归树](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqnnjdl9&aid=19547&nid=311)
+- [替代 webpack？带你了解 snowpack 原理，你还学得动么](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq1jsa7p&aid=19548&nid=311)
+- [少年：究竟什么是单元测试啊？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpw51ydz&aid=19549&nid=311)
+- [你的 Elasticsearch 难题，官方文档早就有了答案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fw984lub&aid=19550&nid=311)
+- [ClickHouse 之 DBA 运维宝典](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp7qsho3&aid=19551&nid=311)
+- [安利十二个常用的 IPython 魔法命令](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5a8ozrl&aid=19552&nid=311)
+- [Docker 安全性与攻击面分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fevn0nva&aid=19553&nid=311)
+- ["kill -9" 一时爽，秋后算账泪两行](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frlt5wtn&aid=19554&nid=311)
+- [快速打造属于你的接口自动化测试框架](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5v0mnbm&aid=19555&nid=311)
+- [是时候扔掉 Postman 了，Apifox 真香](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5t9uoyn&aid=19556&nid=311)
+- [最华丽的 Kubernetes 桌面客户端：Lens](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F42l0a64&aid=19557&nid=311)
+- [密码管理工具（命令行）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzww6eqt&aid=19558&nid=311)
+- [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3112%23buy&aid=19569&nid=311)
 - [[视频] HR 问你离职的原因是什么？你会怎么回答？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fymkzz2s&aid=19491&nid=310)
 - [全（小区局域）网最强 TCP/IP 拥塞控制总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3vappqq&aid=19492&nid=310)
 - [[译] 为什么 Kubernetes 如此受欢迎？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F95aamj1&aid=19493&nid=310)
@@ -3313,6 +3348,9 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程之外
 
+- [普通程序员如何成长](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6zizwxr&aid=19526&nid=311)
+- [费曼学习法：终极学习法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8tcc27i&aid=19527&nid=311)
+- [只看到了别人 28 岁退休，背后的期权知识你知道吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F87u9k30&aid=19528&nid=311)
 - [独家专访 28 岁退休程序员郭宇](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fonk97wf&aid=19472&nid=310)
 - [公司里那些 35 岁以上的人都去哪了？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffgq1unz&aid=19473&nid=310)
 - [中国程序员如何升职加薪，也许我们该学学印度人](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4tp92hb&aid=19474&nid=310)
