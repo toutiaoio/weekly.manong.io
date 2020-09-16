@@ -22,7 +22,10 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 程序设计
 
-- [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3171%23buy&aid=19568&nid=317)
+- [DDD：降低甚至消除问题域和解决方案域的壁垒](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fq1yw3ra&aid=19838&nid=318)
+- [OPPO 云原生 Service Mesh 探索与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3nt8cg0&aid=19839&nid=318)
+- [架构设计：基于电商交易流程，图解 TCC 事务分段提交](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx0ijapt&aid=19840&nid=318)
+- [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3181%23buy&aid=19568&nid=317)
 - [订单中心，1 亿数据架构，这次服了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8r5oqql&aid=19787&nid=317)
 - [实时数仓在滴滴的实践和落地](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8g42wm9&aid=19788&nid=317)
 - [基于 Spark 的大规模推荐系统特征工程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F90jrxp6&aid=19789&nid=317)
@@ -627,7 +630,18 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程语言
 
-- [成为「码农周刊 VIP 会员」，查看更多「编程语言」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3173%23buy&aid=19570&nid=317)
+- [多图教你掌握 JVM](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpz73jc0&aid=19859&nid=318)
+- [Java 异常体系](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0iadppl&aid=19860&nid=318)
+- [[译] 聚焦 Android 11：游戏开发新工具](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Feraqm5i&aid=19861&nid=318)
+- [Kotlin 源码里成吨的 noinline 和 crossinline 是干嘛的？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxvi1d56&aid=19862&nid=318)
+- [探秘 App Clips ](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FHtWQONDrOqPMR-MSqn2-eg&aid=19863&nid=318)
+- [用 Python 实现朋友圈中的九宫格图片](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fao91r9a&aid=19864&nid=318)
+- [[译] ​Python 中的数字到底是什么？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh8f33ey&aid=19865&nid=318)
+- [Go 设计模式（五）：创建型模式总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frh2towx&aid=19866&nid=318)
+- [一图了解 Julia(lang) v2.0](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjjrblp7&aid=19867&nid=318)
+- [[译] Vue.js 构建工具比较](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fza7y69r&aid=19868&nid=318)
+- [在 React 中实现 keep alive](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhc1mxsu&aid=19869&nid=318)
+- [成为「码农周刊 VIP 会员」，查看更多「编程语言」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3183%23buy&aid=19570&nid=317)
 - [你用对锁了吗？浅谈 Java “锁” 事](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F76o97ha&aid=19793&nid=317)
 - [十个问题弄清 JVM & GC（二）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv2dq9lz&aid=19794&nid=317)
 - [Flutter 1.20 下的 Hybrid Composition 深度解析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpzoomgq&aid=19795&nid=317)
@@ -1689,7 +1703,20 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 工具资料
 
-- [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3172%23buy&aid=19569&nid=317)
+- [Redis 和 Memcached 的恩怨情仇](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fn2w1gfz&aid=19841&nid=318)
+- [三个月内业务增长 30 倍：如何在疫情期间扩展 Google Meet](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxfg1ag6&aid=19842&nid=318)
+- [糟糕，在错误的分支开发了新功能，该怎么处理呢？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv7p18iw&aid=19843&nid=318)
+- [社招面试经历](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyvm0wbe&aid=19844&nid=318)
+- [不要再问我 in，exists 走不走索引了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb46dizj&aid=19845&nid=318)
+- [提升开发效率 N 倍的 20+ 命令行神器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnims2je&aid=19846&nid=318)
+- [为什么列式存储广泛应用于 OLAP 领域？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmjb7o88&aid=19847&nid=318)
+- [最想与朋友分享的网站列表](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwlkg9pi&aid=19848&nid=318)
+- [自动化回归环境搭建复盘](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Feoa4uy6&aid=19849&nid=318)
+- [云原生技术研究：从 bpftrace 看如何利用 eBPF 实现内核追踪](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F02bl7fl&aid=19850&nid=318)
+- [边缘计算是什么，和云计算的区别是什么？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhxgxwxq&aid=19851&nid=318)
+- [玩转 VS Code 之你可能不知道的一些技巧](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fviwz9rw&aid=19852&nid=318)
+- [K8s 上的 Go 服务怎么扩容、发版更新、回滚、平滑重启？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqbkjrv0&aid=19853&nid=318)
+- [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3182%23buy&aid=19569&nid=317)
 - [开发出优秀的 API，构建 RESTful API 的 13 种最佳实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjhsjj8v&aid=19804&nid=317)
 - [[译] 更有效使用 GitHub 的 4 个技巧](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3oswfvq&aid=19805&nid=317)
 - [彻底搞懂 etcd 系列文章（七）：etcd gRPC 服务 API](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsw8edpy&aid=19806&nid=317)
@@ -3537,6 +3564,9 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程之外
 
+- [华为鸿蒙 2.0，让我遇见未来](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-MTPRGCoFzd7lt_YMjGO_w&aid=19835&nid=318)
+- [高效能人士的 2 个习惯：以终为始与要事第一](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fawuv747&aid=19836&nid=318)
+- [比能力更重要的是你的底层操作系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9okrprb&aid=19837&nid=318)
 - [任正非：若果有人拧熄了灯塔，我们怎么航行](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FaDDZdBzSCTGRgFaUQm8GzA&aid=19790&nid=317)
 - [如何做一个懂产品的程序员？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxeriwdj&aid=19791&nid=317)
 - [这是一个充满挑战的好时代](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7ajoa1g&aid=19792&nid=317)
