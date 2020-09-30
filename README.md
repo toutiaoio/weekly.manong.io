@@ -22,6 +22,9 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 程序设计
 
+- [近万服务实例稳定运行 0 故障，携程微服务框架实践及思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flx80lt5&aid=19921&nid=320)
+- [用户画像实践：神策标签生产引擎架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9oso7iw&aid=19922&nid=320)
+- [荔枝微课基础架构的演进与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0epkzuh&aid=19923&nid=320)
 - [网易大数据用户画像实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fbqjhhe3&aid=19877&nid=319)
 - [同城双活与异地多活架构分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe1eh64z&aid=19878&nid=319)
 - [从 0 到 1 实现一款轻量级大数据分析系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftyygn3e&aid=19879&nid=319)
@@ -633,6 +636,15 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程语言
 
+- [Java 15 的新特性](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1zo4ozy&aid=19924&nid=320)
+- [[译] 2020 年 Spring 状态报告](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Faxegdfu&aid=19925&nid=320)
+- [聚焦 Android 11：Android 开发者工具](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foh9nb3c&aid=19926&nid=320)
+- [Kotlin 协程和 Android SQLite API 中的线程模型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F44j29de&aid=19927&nid=320)
+- [我在暴躁同事小张的胁迫下学会了 Go 的交叉编译和条件编译](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fynorwke&aid=19928&nid=320)
+- [在 Go 语言中，我为什么使用接口](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4m37thx&aid=19929&nid=320)
+- [Python 之父为什么嫌弃 lambda 匿名函数？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftvchzyj&aid=19930&nid=320)
+- [[译] 仅用 18 行 JavaScript 构建一个倒数计时器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqijww23&aid=19931&nid=320)
+- [Vue 进阶面试必问，异步更新机制和 nextTick 原理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Floxu86g&aid=19932&nid=320)
 - [Java 后端开发常用的第三方服务 TOP 10](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1vfytv1&aid=19880&nid=319)
 - [Spring Boot 2 集成日志，复杂业务下的自定义实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp5r1xgu&aid=19881&nid=319)
 - [聚焦 Android 11：开发语言](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9w4z4m2&aid=19882&nid=319)
@@ -1718,6 +1730,17 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 工具资料
 
+- [还在担心服务挂掉？Sentinel Go 让服务稳如磐石](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsx4z39h&aid=19933&nid=320)
+- [分布式事务精华总结篇](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxdryz90&aid=19934&nid=320)
+- [浅谈关于二维码的钓鱼思路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6mxxlhp&aid=19935&nid=320)
+- [Redis 核心原理和实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fx7kg7sr&aid=19936&nid=320)
+- [一次压缩引发堆外内存过高的教训](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fltpa1w9&aid=19937&nid=320)
+- [20 张图搞懂 “分布式事务”](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkeefsst&aid=19938&nid=320)
+- [如何建立测试自动化策略？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxtwnfoo&aid=19939&nid=320)
+- [伪造图像的对抗攻击，从天池大赛说起](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzsqz9o0&aid=19940&nid=320)
+- [记一次线上性能调优：火焰图是利器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frbvgji4&aid=19941&nid=320)
+- [分布式事务解决方案常见误区与实用建议](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh9nal21&aid=19942&nid=320)
+- [如何产出规范、安全、高质量的代码？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frd2k0cu&aid=19943&nid=320)
 - [大厂面试爱问的 “调度算法”，20 张图一举拿下](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzu9e79n&aid=19893&nid=319)
 - [软件测试人员的职业发展](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fy3xrbca&aid=19894&nid=319)
 - [ClickHouse 入门基础知识了解](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F636xeiy&aid=19895&nid=319)
@@ -3596,6 +3619,9 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程之外
 
+- [腾讯技术大咖推荐书单](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEjbNr5mBgIFsktpf0TCDYQ&aid=19918&nid=320)
+- [如果重走职场，这 8 条良心建议请收好](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjd7b53f&aid=19919&nid=320)
+- [NCDP 会让程序员失业？多虑了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr_j7zW1B2o0TfoYdGRoiBA&aid=19920&nid=320)
 - [浅谈如何搭建知识体系](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F2mquhr4&aid=19874&nid=319)
 - [ 找工作避坑指北](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcq32ryk&aid=19875&nid=319)
 - [从偷手机，到窃取个人信息实现多平台盗刷的黑色产业链](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmqckask&aid=19876&nid=319)
