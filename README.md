@@ -22,6 +22,10 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 程序设计
 
+- [架构制图：工具与方法论](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpzy6sbw&aid=19955&nid=321)
+- [贝壳用户偏好挖掘的思考与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzmin3vr&aid=19956&nid=321)
+- [闲鱼 Serverless 架构实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0o2emfp&aid=19957&nid=321)
+- [成为「码农周刊 VIP 会员」，查看更多「架构设计」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3211%23buy&aid=19992&nid=321)
 - [近万服务实例稳定运行 0 故障，携程微服务框架实践及思考](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Flx80lt5&aid=19921&nid=320)
 - [用户画像实践：神策标签生产引擎架构](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9oso7iw&aid=19922&nid=320)
 - [荔枝微课基础架构的演进与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0epkzuh&aid=19923&nid=320)
@@ -636,6 +640,19 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程语言
 
+- [秒懂 JVM 的三大参数类型，就靠这十个小实验了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftt5pijb&aid=19958&nid=321)
+- [Android 3 分钟带你入门开发测试](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F-TW7p3z3vJ3GJw7X9u7dVg&aid=19959&nid=321)
+- [一种统计 ListView 滚动距离的方案 (Android)](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FsAHg4yU2g4Vw45uZgObhWg&aid=19960&nid=321)
+- [WorkManager 在 Kotlin 中的实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FV7Ylsm7lnvp4GxXM72mPkg&aid=19961&nid=321)
+- [手写一个 Flutter State Widget，来让你彻底理解 State 的来龙去脉](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FmT__uZAO_zoYmMgqNyMtjw&aid=19962&nid=321)
+- [Swift 环境及编译优化调研](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FcM4arazOf9npcO7Ws0fnJA&aid=19963&nid=321)
+- [现代化 PHP：生产环境下优化 Composer 加载的原理](https://weekly.manong.io/bounce?url=https%3A%2F%2Fhuanghantao.github.io%2F2019%2F08%2F23%2F%25E7%258E%25B0%25E4%25BB%25A3%25E5%258C%2596PHP-%25E7%2594%259F%25E4%25BA%25A7%25E7%258E%25AF%25E5%25A2%2583%25E4%25B8%258B%25E4%25BC%2598%25E5%258C%2596Composer%25E5%258A%25A0%25E8%25BD%25BD%25E7%259A%2584%25E5%258E%259F%25E7%2590%2586%2F&aid=19964&nid=321)
+- [C# 中的 is 真的是越来越强大，越来越语义化](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FVVqMEK2_RM2zOn_aS16ncA&aid=19965&nid=321)
+- [[译] 原来 9 张图就可以弄懂 Go 内存管理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F47eqfyx&aid=19966&nid=321)
+- [缓存击穿导致 Golang 组件死锁的问题分享](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FGwK6k9QNuLNjqx9GsJE01Q&aid=19967&nid=321)
+- [H5 应用加固防破解：js 虚拟机保护方案浅谈](https://weekly.manong.io/bounce?url=https%3A%2F%2Fwww.cnblogs.com%2F2014asm%2Fp%2F13733623.html&aid=19968&nid=321)
+- [Node 案发现场揭秘：文件句柄泄露导致进程假死](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhbnymyg&aid=19969&nid=321)
+- [成为「码农周刊 VIP 会员」，查看更多「编程语言」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3213%23buy&aid=19994&nid=321)
 - [Java 15 的新特性](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1zo4ozy&aid=19924&nid=320)
 - [[译] 2020 年 Spring 状态报告](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Faxegdfu&aid=19925&nid=320)
 - [聚焦 Android 11：Android 开发者工具](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Foh9nb3c&aid=19926&nid=320)
@@ -1730,6 +1747,20 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 工具资料
 
+- [这个 MySQL 优化原理剖析，比照 X 光还清楚](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu7wqj68&aid=19970&nid=321)
+- [谈谈前后端分离及认证选择](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxza2iwi&aid=19971&nid=321)
+- [记录一次生产环境中 Redis 内存增长异常排查全流程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftqqqluo&aid=19972&nid=321)
+- [CPU 飙高，系统性能问题如何排查？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fh1mu8e9&aid=19973&nid=321)
+- [MySQL logstash 同步数据到 es 的几种方案对比以及每种方案数据丢失原因分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnmw60lh&aid=19974&nid=321)
+- [Paxos 分布式必问的内容，没有之一](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffhmqfyd&aid=19975&nid=321)
+- [Hugo 搭建静态博客与服务器部署](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4d8ur4w&aid=19976&nid=321)
+- [轻松玩转函数式编程](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzmm264v&aid=19977&nid=321)
+- [kafka 的工作原理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4s8lzp3&aid=19978&nid=321)
+- [基于 f2 从零实现移动端可视化编辑器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwtfv8vn&aid=19979&nid=321)
+- [Kubernetes Ingress 入门指南和实践练习](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F8dpctvj&aid=19980&nid=321)
+- [复杂性应对之道：维度思维](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkuk0cyq&aid=19981&nid=321)
+- [StreamNative 宣布开源 MoP](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0ckwvy2&aid=19982&nid=321)
+- [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3212%23buy&aid=19993&nid=321)
 - [还在担心服务挂掉？Sentinel Go 让服务稳如磐石](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fsx4z39h&aid=19933&nid=320)
 - [分布式事务精华总结篇](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxdryz90&aid=19934&nid=320)
 - [浅谈关于二维码的钓鱼思路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6mxxlhp&aid=19935&nid=320)
@@ -3619,6 +3650,9 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程之外
 
+- [30 岁的程序员出路在哪里？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0dcsosz&aid=19952&nid=321)
+- [如何提升职业工作效率](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgirc10b&aid=19953&nid=321)
+- [如何让程序员变得没朋友](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwpxfdvn&aid=19954&nid=321)
 - [腾讯技术大咖推荐书单](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FEjbNr5mBgIFsktpf0TCDYQ&aid=19918&nid=320)
 - [如果重走职场，这 8 条良心建议请收好](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjd7b53f&aid=19919&nid=320)
 - [NCDP 会让程序员失业？多虑了](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fr_j7zW1B2o0TfoYdGRoiBA&aid=19920&nid=320)
