@@ -22,6 +22,9 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 程序设计
 
+- [印度最大在线食品杂货公司 Grofers 的数据湖建设之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz5vm6t9&aid=20077&nid=324)
+- [Volcano 架构解读](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm6n7ojj&aid=20078&nid=324)
+- [解读云原生基础设施](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd33fq3m&aid=20079&nid=324)
 - [成为「码农周刊 VIP 会员」，查看更多「程序设计」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3231%23buy&aid=19992&nid=323)
 - [从容器到云原生的趋势与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvqfze1s&aid=20037&nid=323)
 - [Impala 在网易大数据的优化和实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0vfqlgs&aid=20038&nid=323)
@@ -646,6 +649,19 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程语言
 
+- [Java 应用从源代码到镜像：使用 Docker 多阶段构建](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6xjsa2r&aid=20080&nid=324)
+- [深入详解 Jetpack Compose：优化 UI 构建](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9i31ba9&aid=20081&nid=324)
+- [深入浅出 Apple 响应式框架 Combine](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fslhfqsr&aid=20082&nid=324)
+- [快使用 Scriptable 自己开发一个 iPhone 小组件吧](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcpr39ly&aid=20083&nid=324)
+- [Flutter 源码剖析（一）：源码获取与构建](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm4ntz2d&aid=20084&nid=324)
+- [Pigeon：Flutter 多端接口一致性以及规范化管理实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyeyymvu&aid=20085&nid=324)
+- [Python + Appium 自动化操作微信入门看这一篇就够了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fplb7dqo&aid=20086&nid=324)
+- [Python 实现：详解 LRU 缓存淘汰算法](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ftcbc5jk&aid=20087&nid=324)
+- [Golang 单元测试详尽指引](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Faio979l&aid=20088&nid=324)
+- [Go 监控的标配：实战 Prometheus](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fasb5mrq&aid=20089&nid=324)
+- [快速了解 ASP.NET Core Blazor](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fczo40rv&aid=20090&nid=324)
+- [Node.js 沙盒逃逸分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkuuorvj&aid=20091&nid=324)
+- [我不能没有的 5 个 Vue.js 库](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl04ibvu&aid=20092&nid=324)
 - [成为「码农周刊 VIP 会员」，查看更多「编程语言」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3233%23buy&aid=19994&nid=323)
 - [编程体系结构：Java IO 流文件管理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff3xqehn&aid=20040&nid=323)
 - [CopyOnWriteArrayList 中的隐藏的知识，你 Get 了吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxq6mkg4&aid=20041&nid=323)
@@ -1773,6 +1789,23 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 工具资料
 
+- [两年半完成逆袭，他终于拿到字节跳动的 Offer](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwhq4czc&aid=20093&nid=324)
+- [天天说要做性能优化，到底在优化什么？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9fxs5uq&aid=20094&nid=324)
+- [单点登录，不要老盯着 cas-server 了，你还可以选择 keycloak](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhbhmkn4&aid=20095&nid=324)
+- [Flink StateFun 2.0 浅谈](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ffxy33c6&aid=20096&nid=324)
+- [MySQL 8 和 PostgreSQL 10 功能对比](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fjlhc45y&aid=20097&nid=324)
+- [你真的知道怎么实现一个延迟队列吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkqvczix&aid=20098&nid=324)
+- [Native 地图与 Web 融合技术的应用与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwvu7g7j&aid=20099&nid=324)
+- [一文了解分布式一致性算法 EPaxos](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fessq2tr&aid=20100&nid=324)
+- [业务层，到底需不需要服务化？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7t53npo&aid=20101&nid=324)
+- [物理内存充足，但是为什么用代码总申请不到内存呢？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxy6v0or&aid=20102&nid=324)
+- [13 张图彻底搞懂分布式系统服务注册与发现原理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff9kkb5t&aid=20103&nid=324)
+- [常见登录鉴权方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyod3gck&aid=20104&nid=324)
+- [和行业里多家 DevOps 平台的同学交流后，我发现……](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmt6i5f5&aid=20105&nid=324)
+- [H5 页面漏洞挖掘之路（混淆篇）](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzcysy1x&aid=20106&nid=324)
+- [机器学习基础：基本的概念](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvqgrujk&aid=20107&nid=324)
+- [[译] Gas 优化：如何优化存储](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzgqx19d&aid=20108&nid=324)
+- [DevOps 视角的前后端分离与实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk4sds4w&aid=20109&nid=324)
 - [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3232%23buy&aid=19993&nid=323)
 - [非科班学弟如何转行斩获 ATM 大厂的 Offer ？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm9kt326&aid=20050&nid=323)
 - [Linux 机器 CPU 毛刺问题排查](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv3b4fgl&aid=20051&nid=323)
@@ -3706,6 +3739,9 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程之外
 
+- [精通那么多技术，你为何还是受不到重用？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgk7ay10&aid=20074&nid=324)
+- [博客十年](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnxy0gra&aid=20075&nid=324)
+- [同心才能同理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgyb13cl&aid=20076&nid=324)
 - [中年架构师，悲催的一天](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6hkm4g6&aid=20034&nid=323)
 - [[译] 什么是真正的程序员](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzhspu3w&aid=20035&nid=323)
 - [如何有效的维权，这些投诉平台你可能用得上](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fe3zsppo&aid=20036&nid=323)
