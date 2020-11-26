@@ -22,10 +22,13 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 程序设计
 
+- [成为「码农周刊 VIP 会员」，查看更多「程序设计」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3251%23buy&aid=19992&nid=325)
+- [腾讯看点视频推荐索引构建方案](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqjuci0g&aid=20123&nid=325)
+- [优酷大数据 OLAP 技术选型](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fohrycaz&aid=20124&nid=325)
+- [前端工程实践之数据埋点分析系统](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fcrnvcxr&aid=20125&nid=325)
 - [印度最大在线食品杂货公司 Grofers 的数据湖建设之路](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fz5vm6t9&aid=20077&nid=324)
 - [Volcano 架构解读](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm6n7ojj&aid=20078&nid=324)
 - [解读云原生基础设施](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fd33fq3m&aid=20079&nid=324)
-- [成为「码农周刊 VIP 会员」，查看更多「程序设计」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3251%23buy&aid=19992&nid=323)
 - [从容器到云原生的趋势与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvqfze1s&aid=20037&nid=323)
 - [Impala 在网易大数据的优化和实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F0vfqlgs&aid=20038&nid=323)
 - [如何通过 Serverless 技术降低微服务应用资源成本？](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2F1jCnO2-R0TULtFNcI-6_JQ&aid=20039&nid=323)
@@ -649,6 +652,18 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程语言
 
+- [成为「码农周刊 VIP 会员」，查看更多「编程语言」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3253%23buy&aid=19994&nid=325)
+- [实战：自己动手编译 JDK](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fi7e8oql&aid=20126&nid=325)
+- [自定义注解！绝对是程序员装逼的利器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgnbzbuw&aid=20127&nid=325)
+- [深入探索 Android Gradle 插件的缓存配置](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F3lbqjxp&aid=20128&nid=325)
+- [他把闲鱼 App 长列表流畅度翻了倍](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fdemohte&aid=20129&nid=325)
+- [Kotlin Contract](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmx3isde&aid=20130&nid=325)
+- [EntityFramework Core 上下文实例池原理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyef28b5&aid=20131&nid=325)
+- [备受争议的 PHP 前景究竟如何？我们该何去何从？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Frvi2msw&aid=20132&nid=325)
+- [Python 中 Redis 库分布式锁简单分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fyr4czdu&aid=20133&nid=325)
+- [[译] 有意思！Go 源代码中的那些秘密：为什么 time.minWall 是 1885？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk1nx9je&aid=20134&nid=325)
+- [如何创建与框架无关的 JavaScript 插件](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxs5f8j6&aid=20135&nid=325)
+- [简单分析下 Node.js 关于集群的那些事](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp9mn466&aid=20136&nid=325)
 - [Java 应用从源代码到镜像：使用 Docker 多阶段构建](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F6xjsa2r&aid=20080&nid=324)
 - [深入详解 Jetpack Compose：优化 UI 构建](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9i31ba9&aid=20081&nid=324)
 - [深入浅出 Apple 响应式框架 Combine](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fslhfqsr&aid=20082&nid=324)
@@ -662,7 +677,6 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 - [快速了解 ASP.NET Core Blazor](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fczo40rv&aid=20090&nid=324)
 - [Node.js 沙盒逃逸分析](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkuuorvj&aid=20091&nid=324)
 - [我不能没有的 5 个 Vue.js 库](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fl04ibvu&aid=20092&nid=324)
-- [成为「码农周刊 VIP 会员」，查看更多「编程语言」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3253%23buy&aid=19994&nid=323)
 - [编程体系结构：Java IO 流文件管理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Ff3xqehn&aid=20040&nid=323)
 - [CopyOnWriteArrayList 中的隐藏的知识，你 Get 了吗？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxq6mkg4&aid=20041&nid=323)
 - [WorkManager：周期性任务](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fusvyg7f&aid=20042&nid=323)
@@ -1789,6 +1803,23 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 工具资料
 
+- [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3252%23buy&aid=19993&nid=325)
+- [精心为你准备的最全的 20 道 MySQL 面试题](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5lujxq0&aid=20137&nid=325)
+- [老旧系统重构技巧，轻松搞定遗留代码](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fu37jlbp&aid=20138&nid=325)
+- [分布式事务方案：SAGA 模式](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5oci732&aid=20139&nid=325)
+- [刨根问底，Kafka 消息中间件到底会不会丢消息](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F17q9ijl&aid=20140&nid=325)
+- [Envoy VS Traefik](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fa469cxm&aid=20141&nid=325)
+- [Hugo 之旅](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F5ubz2q0&aid=20142&nid=325)
+- [这些高阶的函数技术，你掌握了么](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fqogwd7i&aid=20143&nid=325)
+- [中小企业信息安全建设开荒经验分享](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fxd27gz1&aid=20144&nid=325)
+- [深入解读 Elasticsearch 热点线程 hot_threads](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F1awt70n&aid=20145&nid=325)
+- [谈一谈 TCP 连接](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fncz653e&aid=20146&nid=325)
+- [52 图初探 Linux 通用知识](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fmgktqso&aid=20147&nid=325)
+- [[译] 6 种数据分析实用方法，终于有人讲明白了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F7zgo1nm&aid=20148&nid=325)
+- [那些有趣/实用的 Chrome 扩展神器](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzpqzx3u&aid=20149&nid=325)
+- [前端智能化 2020 年中总结和反思](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fb0wk996&aid=20150&nid=325)
+- [云原生架构下复杂工作负载混合调度的思考与实践](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fuajj5us&aid=20151&nid=325)
+- [Datapane：Python 数据分析报告生成库](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4obiqep&aid=20152&nid=325)
 - [两年半完成逆袭，他终于拿到字节跳动的 Offer](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fwhq4czc&aid=20093&nid=324)
 - [天天说要做性能优化，到底在优化什么？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9fxs5uq&aid=20094&nid=324)
 - [单点登录，不要老盯着 cas-server 了，你还可以选择 keycloak](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fhbhmkn4&aid=20095&nid=324)
@@ -1806,7 +1837,6 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 - [机器学习基础：基本的概念](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fvqgrujk&aid=20107&nid=324)
 - [[译] Gas 优化：如何优化存储](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fzgqx19d&aid=20108&nid=324)
 - [DevOps 视角的前后端分离与实战](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fk4sds4w&aid=20109&nid=324)
-- [成为「码农周刊 VIP 会员」，查看更多「工具资料」内容](https://weekly.manong.io/bounce?url=https%3A%2F%2Fvip.manong.io%2F%3F3252%23buy&aid=19993&nid=323)
 - [非科班学弟如何转行斩获 ATM 大厂的 Offer ？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm9kt326&aid=20050&nid=323)
 - [Linux 机器 CPU 毛刺问题排查](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fv3b4fgl&aid=20051&nid=323)
 - [你可能不知道的平时在用的一致性协议 2PC、3PC？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F4oyem7x&aid=20052&nid=323)
@@ -3739,6 +3769,9 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 
 ## 编程之外
 
+- [面试过 200 人的经验，都在这里了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fpfctyn9&aid=20119&nid=325)
+- [人生是一个回环：我的十年安全工作总结](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F41asxjm&aid=20120&nid=325)
+- [解读亚马逊云计算](https://weekly.manong.io/bounce?url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fd1w1lhL2pnu4kUrrwqziAw&aid=20122&nid=325)
 - [精通那么多技术，你为何还是受不到重用？](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgk7ay10&aid=20074&nid=324)
 - [博客十年](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fnxy0gra&aid=20075&nid=324)
 - [同心才能同理](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fgyb13cl&aid=20076&nid=324)
