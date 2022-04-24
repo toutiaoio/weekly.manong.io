@@ -2516,7 +2516,7 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 - [wuhan2020：武汉新型冠状病毒防疫信息收集平台](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Faeg4mlu&aid=18603&nid=293)
 - [不容错过的 Node.js 资源集](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fkojbx9y&aid=18604&nid=293)
 - [一周 GitHub 开源项目推荐：12306、腾讯、美团点评、陌陌](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Framqm0s&aid=18527&nid=292)
-- [[译] 2020 年软件开发趋势](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9eltrwf&aid=18528&nid=292)
+- [2020 年软件开发趋势](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2F9eltrwf&aid=18528&nid=292)
 - [Gartner：影响 2020 年基础架构和运营的十大趋势](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fm8p9fgv&aid=18529&nid=292)
 - [惊讶！我定的日志规范被 CTO 在全公司推广了](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fem581ls&aid=18530&nid=292)
 - [头条高级面试题：请谈谈 Redis 9 种数据结构以及它们的内部编码实现](https://weekly.manong.io/bounce?url=https%3A%2F%2Ftoutiao.io%2Fk%2Fp2s9fdq&aid=18531&nid=292)
@@ -4058,3 +4058,4 @@ JavaScript, Python, Ruby, Golang, C/C++ 等）、工具资料、编程之外等�
 <br/>
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
