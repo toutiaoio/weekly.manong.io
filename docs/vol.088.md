@@ -14,6 +14,7 @@
 
 ## 内容节选 
 1、[中国云市场的新逻辑](https://mp.weixin.qq.com/s/qSNURmWMfep20o-AwOoEFg)
+
 市场环境和政策环境都在变化，云公司的商业模型、技术模型、政策法规模型，以及自身定位均需重构。
 
 2、[深度起底赵长鹏和他的数字货币](https://mp.weixin.qq.com/s/m71kjgIy3m4hKTgRXqzOqQ)
