@@ -23,9 +23,9 @@
 
 
 ## 往期存档
-- [程序设计](archives/architecture.md)
-- [人工智能](archives/ai.md)
-- [编程语言](archives/language.md)
-- [工具资料](archives/tool.md)
-- [编程之外](archives/other.md) 
+- [程序设计](archives/architecture.md#程序设计)
+- [人工智能](archives/ai.md#人工智能)
+- [编程语言](archives/language.md#编程语言)
+- [工具资料](archives/tool.md#工具资料)
+- [编程之外](archives/other.md#编程之外) 
 
