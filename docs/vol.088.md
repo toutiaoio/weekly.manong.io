@@ -75,7 +75,7 @@ VSCode 开发团队从 10 来个人开始，早期成员大多有 Eclipse 开发
 - Vol.088 [如何记住所学的东西？](vol.088.md)
 
 ## 往期存档
-- [程序设计](archives/architecture.md#程序设计)
+- [程序设计](/archives/architecture.md#程序设计)
 - [人工智能](archives/ai.md#人工智能)
 - [编程语言](archives/language.md#编程语言)
 - [工具资料](archives/tool.md#工具资料)
