@@ -18,30 +18,39 @@
 市场环境和政策环境都在变化，云公司的商业模型、技术模型、政策法规模型，以及自身定位均需重构。
 
 2、[深度起底赵长鹏和他的数字货币](https://mp.weixin.qq.com/s/m71kjgIy3m4hKTgRXqzOqQ)
+
 全球流浪的“华人首富”无房无车
 
 3、[从 VSCode 看大型 IDE 技术架构](https://toutiao.io/k/acuovgh)
+
 VSCode 开发团队从 10 来个人开始，早期成员大多有 Eclipse 开发团队的背景。
 
 4、[知乎的用户画像与实时数据的架构与实践](https://toutiao.io/k/0up430p)
+
 实践经验和心得体会
 
 5、[阿里巴巴开源的，帮助你快速搭建本地和云端 IDE 的框架](https://github.com/opensumi/core/blob/main/README-zh_CN.md)
+
 旨在解决阿里经济体内部 IDE 产品研发的重复建设问题，满足 IDE 在更多垂直场景的定制能力。
 
 6、[一个开箱即用的，全周期的数据环境解决方案](https://github.com/macacajs/macaca-datahub/blob/master/README.zh.md)
+
 支持从本地开发阶段，到集成测试阶段，以及上线前验证阶段的一系列数据环境需求。
 
 7、[成为一名优秀Java开发人员的7个步骤](https://toutiao.io/k/6kwaapq)
+
 供参考
 
 8、[万字长文教你用Go开发区块链应用](https://toutiao.io/k/3f3i7ey)
+
 一步步教你
 
 9、[https://github.com/toutiaoio/A-Guide-To-Stockpiling](《非常时期囤货手册》)
+
 一个可供选择的居家封闭情况下的商品列表
 
 10、[《区块链黑暗森林自救手册》](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
+
 供参考
 
 
@@ -63,7 +72,7 @@ VSCode 开发团队从 10 来个人开始，早期成员大多有 Eclipse 开发
 3. 客服向您发送码农周刊VIP会员欢迎邮件，开启您的码农周刊VIP会员之旅。
 
 ## VIP会员专属邮件周报
-- Vol.088 [如何记住所学的东西？](docs/vol.088.md)
+- Vol.088 [如何记住所学的东西？](vol.088.md)
 
 ## 往期存档
 - [程序设计](archives/architecture.md#程序设计)
