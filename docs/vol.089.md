@@ -14,33 +14,43 @@
 ## 内容节选
 
 1、[周小川：关于数字货币的几点问题及回应](https://mp.weixin.qq.com/s/8z_ZRmO86SuSnDqHdX66yQ)
+
 围绕“数字货币已讨论过的问题及回应”发表主旨演讲
 
 2、[TED老板55问马斯克](https://mp.weixin.qq.com/s/1VFik3tE6DW7pNOYFyZNTw)
+
 金句不断
 
 3、[B站取数服务演进之路](https://toutiao.io/k/yx71pwe)
+
 湖仓一体架构的引入，让数据处理变得更加高效。
 
 4、[收钱吧多泳道环境的演进](https://toutiao.io/k/59oz4qo)
+
 主要介绍几代测试环境的发展与技术实现
 
 5、[Spring源码的学习方法和知识地图](https://toutiao.io/k/fhe58uh)
+
 供参考
 
 6、[关于Go内存架构，一个有趣的问题](https://toutiao.io/k/z6tigh0)
+
 深入研究
 
 7、[从高级程序员的角度来看，Rust 基础知识](https://toutiao.io/k/76ky4oe)
+
 入门知识
 
 8、[《Rust标准库分析》](https://github.com/Warrenren/inside-rust-std-library)
+
 主要对Rust的标准库代码进行分析
 
 9、[程序员延寿指南](https://github.com/geekan/HowToLiveLonger)
+
 稳健地活得更久
 
 10、[技术开发人员如何制定自己的OKR](https://toutiao.io/k/zq8oiet)
+
 实用
 
 ## 简介
