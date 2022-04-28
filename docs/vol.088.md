@@ -67,7 +67,7 @@ VSCode 开发团队从 10 来个人开始，早期成员大多有 Eclipse 开发
 - 更多会员特权，持续更新……
 
 ## 成为码农周刊VIP会员
-1. 微信扫描下方二维码，加入码农周刊VIP会员知识星球。促销期间，一年仅需 108 元！平均一天花费不到 3 毛！<img src="https://img.toutiao.io/ads/vip_github.jpeg">
+1. 微信扫描下方二维码，加入码农周刊VIP会员知识星球。<img src="https://img.toutiao.io/ads/vip_github.jpeg">
 2. 加入码农周刊VIP会员知识星球后，客服会联系您，请留意知识星球内的私信。
 3. 客服向您发送码农周刊VIP会员欢迎邮件，开启您的码农周刊VIP会员之旅。
 
