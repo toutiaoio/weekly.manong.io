@@ -4,7 +4,7 @@
 
 [码农周刊简介](#简介)｜[读者圈子专属邮件周报](#读者圈子专属邮件周报)｜[往期存档](#往期存档) 
 
-<center>**欢迎加入读者圈子，一起交流！**</center>
+**<center>欢迎加入读者圈子，一起交流！</center>**
 <center>**↓↓↓**</center>
 <img src="https://img.toutiao.io/ads/vip_github.jpeg">
 
