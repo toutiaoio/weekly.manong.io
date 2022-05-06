@@ -17,7 +17,7 @@
 心动不如行动，赶快加入吧！
 
 
-<img src="https://img.toutiao.io/ads/vip_github.jpeg">
+<img src="https://img.toutiao.io/ads/vip_github_0506.jpeg">
 
 
 ## 本期，首先分享的是如何记住所学的东西？，摘录几条，供参考。

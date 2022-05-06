@@ -17,7 +17,7 @@
 心动不如行动，赶快加入吧！
 
 
-<img src="https://img.toutiao.io/ads/vip_github.jpeg">
+<img src="https://img.toutiao.io/ads/vip_github_0506.jpeg">
 
 ## 简介
 - 码农周刊是一份专为广大程序员、编程爱好者们打造的 IT 技术周刊。每周发送。

@@ -17,7 +17,7 @@
 心动不如行动，赶快加入吧！
 
 
-<img src="https://img.toutiao.io/ads/vip_github.jpeg">
+<img src="https://img.toutiao.io/ads/vip_github_0506.jpeg">
 
 
 ## 本期，首先分享的是[疫情之中，写给大家的34句话](https://mp.weixin.qq.com/s/gUBAw4Nvrl1EIQVyFnLM-A)，摘录几句，共勉。
